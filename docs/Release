@@ -1,0 +1,12 @@
+Origin: iamalive2008
+Label: iamalive2008
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iamalive2008's repo
+
+SHA256:
+ cf18ff824ba250111edf1b8b8f8cf81987515e4362238eb551dd3220b055ba45 631 Packages.bz2
+ 7092d7db7d6209409e367509b81587be7ba4236f1d1bb0bdd44863703bf70551 624 Packages.xz
